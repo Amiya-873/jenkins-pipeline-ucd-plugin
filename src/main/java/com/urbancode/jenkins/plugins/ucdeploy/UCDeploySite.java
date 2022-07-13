@@ -53,7 +53,7 @@ public class UCDeploySite implements Serializable {
 
     private boolean trustAllCerts;
     
-    public static boolean skipProps;
+    public boolean skipProps;
 
     private boolean alwaysCreateNewClient;
     
